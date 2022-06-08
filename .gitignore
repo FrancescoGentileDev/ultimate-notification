@@ -1,0 +1,12 @@
+node_modules
+.twitch-cli
+.vscode
+test
+server/.env
+server/server.crt
+server/server.csr
+server/server.pem
+server/node_modules
+landing
+client/.env
+client/node_modules

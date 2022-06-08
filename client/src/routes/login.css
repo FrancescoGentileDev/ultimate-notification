@@ -1,0 +1,81 @@
+.main {
+
+}
+
+
+
+.logincol {
+    
+}
+
+#logincard{
+    height: 70vh;
+    width: 40vh;
+    border-radius: 30px !important;
+    min-height: 670px;
+    min-width: 350px;
+    
+    
+}
+#signcard{
+    height: 90vh;
+    width: 40vh;
+    border-radius: 30px !important;
+    min-height: 670px;
+    min-width: 350px;
+    
+    
+}
+#confirmationCard{
+    width: 10vh;
+    height: 10vh;
+    border-radius: 30px !important;
+    text-align: center
+}
+#issimo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    left: 10px;
+}
+
+#formline {
+    
+    line-height: 12px !important;
+    white-space: pre-line !important;
+    color: white !important;
+}
+
+
+#email {
+}
+
+
+.link {
+    text-align: right;
+    margin-left: 25px;
+}
+
+
+.signUp {
+    color: grey;
+}
+
+    
+.notHave {
+
+}
+
+
+
+.cerchi {
+
+}
+
+
+@media screen and (min-width: 768px){
+    #issimo {
+        margin-right: 300px;
+    }
+}

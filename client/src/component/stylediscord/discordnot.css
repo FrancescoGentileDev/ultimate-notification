@@ -1,0 +1,46 @@
+.gameBoxDiscord {
+  max-width: 225px;
+  max-height: 300px;
+  margin-left: 10px;
+  padding-bottom: 10px;;
+}
+
+.card-notifica {
+  border-radius: 5px;
+  background-color: rgb(36, 36, 36) !important;
+  padding-right: 1rem;
+  max-width: 515px;
+  padding-left: -5px;
+  border-radius: 5px !important;
+  border-left-width: 5px !important;
+  border-left-style: solid !important;
+  
+  color: #ffffff !important;
+  border-width: 4px;
+  border-color: rgba(0, 0, 0,0.03);
+  border-style: solid ;
+}
+
+
+.linea {
+  background-color: green;
+  width: 5px;
+  height: 100%;
+}
+
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-linkButton {
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.144) !important;
+  margin-top: 1rem;
+  max-width: 250px;
+}
+
+

@@ -1,0 +1,43 @@
+.text {
+  width: 100% !important;
+}
+
+.main{
+}
+
+
+.card-2 {
+  border-radius: 5px;
+  background-color: white !important;
+  max-width: 300px;
+  border-radius: 5px !important;
+}
+.card-3 {
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.144) !important;
+  margin-top: 1rem;
+  max-width: 300px;
+}
+
+.gameBox {
+  max-width: 350px;
+  max-height: 400px;
+}
+
+.card-2.shadow {
+}
+
+.icon {
+  margin-left: auto;
+}
+
+@media (max-width: 480px) {
+  .card-2.shadow {
+    max-width: auto !important;
+  }
+  .gameBox {
+    width: 100%;
+  }
+}
