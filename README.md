@@ -62,5 +62,5 @@ La veridicità delle notifiche è protetto da un sistema di autentificatione e H
       
 - API Twitch, Discord, Telegram, Alexa
 
-![](https://raw.githubusercontent.com/FrancescoGentileDev/ultimate-notification/main/screen/LANDING.png | width=1000)
+![landing](https://raw.githubusercontent.com/FrancescoGentileDev/ultimate-notification/main/screen/LANDING.png | width=1000)
   
